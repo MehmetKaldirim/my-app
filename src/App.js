@@ -2,7 +2,7 @@ import React from "react";
 
 import { Navbar } from "/Users/math/my-app/src/components/Navbar";
 import { Main } from "/Users/math/my-app/src/components/Main";
-import "./index.css";
+import "./style.css";
 
 export default function App() {
   return (
